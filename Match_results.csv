@@ -1,0 +1,34 @@
+Date,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Opp Formation
+2024-08-17,Matchweek 1,Sat,Away,W,2.0,1.0,Valencia,63.0,46673.0,Marc-André ter Stegen,4-2-3-1,4-4-2
+2024-08-24,Matchweek 2,Sat,Home,W,2.0,1.0,Athletic Club,64.0,46448.0,Marc-André ter Stegen,4-2-3-1,4-2-3-1
+2024-08-27,Matchweek 3,Tue,Away,W,2.0,1.0,Rayo Vallecano,64.0,14031.0,Marc-André ter Stegen,4-2-3-1,4-4-2
+2024-08-31,Matchweek 4,Sat,Home,W,7.0,0.0,Valladolid,70.0,44359.0,Marc-André ter Stegen,4-3-3,4-1-4-1
+2024-09-15,Matchweek 5,Sun,Away,W,4.0,1.0,Girona,55.0,13891.0,Marc-André ter Stegen,4-2-3-1,4-2-3-1
+2024-09-22,Matchweek 6,Sun,Away,W,5.0,1.0,Villarreal,63.0,22048.0,Marc-André ter Stegen,4-3-3,4-4-2
+2024-09-25,Matchweek 7,Wed,Home,W,1.0,0.0,Getafe,76.0,44407.0,Raphinha,4-2-3-1,4-1-4-1
+2024-09-28,Matchweek 8,Sat,Away,L,2.0,4.0,Osasuna,73.0,22322.0,Pedri,4-3-3,4-3-3
+2024-10-06,Matchweek 9,Sun,Away,W,3.0,0.0,Alavés,71.0,19468.0,Raphinha,4-2-3-1,4-2-3-1
+2024-10-20,Matchweek 10,Sun,Home,W,5.0,1.0,Sevilla,67.0,47848.0,Raphinha,4-2-3-1,4-2-3-1
+2024-10-26,Matchweek 11,Sat,Away,W,4.0,0.0,Real Madrid,57.0,78192.0,Raphinha,4-2-3-1,4-4-2
+2024-11-03,Matchweek 12,Sun,Home,W,3.0,1.0,Espanyol,76.0,48843.0,Raphinha,4-2-3-1,4-1-4-1
+2024-11-10,Matchweek 13,Sun,Away,L,0.0,1.0,Real Sociedad,69.0,36194.0,Frenkie de Jong,4-2-3-1,4-1-4-1
+2024-11-23,Matchweek 14,Sat,Away,D,2.0,2.0,Celta Vigo,59.0,24573.0,Raphinha,4-2-3-1,4-4-2
+2024-11-30,Matchweek 15,Sat,Home,L,1.0,2.0,Las Palmas,69.0,43921.0,Raphinha,4-2-3-1,4-2-3-1
+2024-12-03,Matchweek 19,Tue,Away,W,5.0,1.0,Mallorca,59.0,22352.0,Raphinha,4-2-3-1,4-4-2
+2024-12-07,Matchweek 16,Sat,Away,D,2.0,2.0,Betis,62.0,51749.0,Raphinha,4-3-3,4-2-3-1
+2024-12-15,Matchweek 17,Sun,Home,L,0.0,1.0,Leganés,79.0,39523.0,Raphinha,4-2-3-1,5-4-1
+2024-12-21,Matchweek 18,Sat,Home,L,1.0,2.0,Atlético Madrid,62.0,46249.0,Raphinha,4-2-3-1,4-4-2
+2025-01-18,Matchweek 20,Sat,Away,D,1.0,1.0,Getafe,77.0,15134.0,Ronald Araújo,4-2-3-1,4-1-4-1
+2025-01-26,Matchweek 21,Sun,Home,W,7.0,1.0,Valencia,71.0,45312.0,Frenkie de Jong,4-2-3-1,4-4-2
+2025-02-02,Matchweek 22,Sun,Home,W,1.0,0.0,Alavés,69.0,42900.0,Ronald Araújo,4-3-3,4-2-3-1
+2025-02-09,Matchweek 23,Sun,Away,W,4.0,1.0,Sevilla,60.0,38592.0,Ronald Araújo,4-2-3-1,4-2-3-1
+2025-02-17,Matchweek 24,Mon,Home,W,1.0,0.0,Rayo Vallecano,59.0,45296.0,Frenkie de Jong,4-2-3-1,4-2-3-1
+2025-02-22,Matchweek 25,Sat,Away,W,2.0,0.0,Las Palmas,69.0,30746.0,Raphinha,4-2-3-1,4-2-3-1
+2025-03-02,Matchweek 26,Sun,Home,W,4.0,0.0,Real Sociedad,76.0,46324.0,Ronald Araújo,4-1-4-1,4-1-4-1
+2025-03-16,Matchweek 28,Sun,Away,W,4.0,2.0,Atlético Madrid,65.0,67602.0,Raphinha,4-2-3-1,4-4-2
+2025-03-27,Matchweek 27,Thu,Home,W,3.0,0.0,Osasuna,74.0,42319.0,Frenkie de Jong,4-3-3,4-4-2
+2025-03-30,Matchweek 29,Sun,Home,W,4.0,1.0,Girona,69.0,48258.0,Ronald Araújo,4-2-3-1,4-4-2
+2025-04-05,Matchweek 30,Sat,Home,D,1.0,1.0,Betis,73.0,47043.0,Ronald Araújo,4-3-3,4-2-3-1
+2025-04-12,Matchweek 31,Sat,Away,W,1.0,0.0,Leganés,65.0,12530.0,Ronald Araújo,4-2-3-1,4-5-1
+2025-04-19,Matchweek 32,Sat,Home,W,4.0,3.0,Celta Vigo,71.0,48569.0,Frenkie de Jong,4-3-3,4-1-4-1
+2025-04-22,Matchweek 33,Tue,Home,W,1.0,0.0,Mallorca,77.0,45602.0,Ronald Araújo,4-2-3-1,5-4-1
